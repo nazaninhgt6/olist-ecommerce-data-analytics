@@ -1,5 +1,7 @@
 # Olist E-Commerce Analytics | Python & Interactive Dashboard
+
 🚀 **[View Live Interactive Dashboard](https://nazaninhgt6.github.io/olist-ecommerce-data-analytics/)**
+
 **End-to-end portfolio project** exploring historical Brazilian e-commerce orders with Python, Pandas, and an interactive Plotly dashboard.
 
 [Dashboard preview](assets/dashboard-overview.png) · [Open offline dashboard](docs/index.html) · [Persian README](README_FA.md)
