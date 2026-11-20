@@ -1,0 +1,16 @@
+{
+  "source": "Olist Brazilian E-Commerce Public Dataset",
+  "scope": "delivered orders with item records",
+  "currency": "BRL",
+  "total_orders_all_statuses": 99441,
+  "delivered_orders_with_items": 96478,
+  "delivered_item_value_brl": 13221498.11,
+  "average_delivered_order_item_value_brl": 137.04,
+  "repeat_customers": 2801,
+  "repeat_customer_percentage": 3.0,
+  "valid_delivery_records": 96470,
+  "late_deliveries": 6534,
+  "late_delivery_percentage": 6.77,
+  "excluded_negative_delivery_durations": 0,
+  "note": "Item value excludes freight; figures are historical, not realized revenue."
+}

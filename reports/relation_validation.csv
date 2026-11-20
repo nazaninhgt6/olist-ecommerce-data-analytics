@@ -1,0 +1,5 @@
+﻿relation,rows,missing_keys,unmatched_keys,valid_percentage
+orders.customer_id -> customers.customer_id,99441,0,0,100.0
+order_items.order_id -> orders.order_id,112650,0,0,100.0
+order_items.product_id -> products.product_id,112650,0,0,100.0
+payments.order_id -> orders.order_id,103886,0,0,100.0

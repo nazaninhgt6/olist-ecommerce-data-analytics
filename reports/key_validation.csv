@@ -1,0 +1,7 @@
+﻿table,rows,key_columns,missing_keys,duplicate_keys
+orders,99441,order_id,0,0
+customers,99441,customer_id,0,0
+products,32951,product_id,0,0
+order_items,112650,"order_id,order_item_id",0,0
+payments,103886,"order_id,payment_sequential",0,0
+translations,71,product_category_name,0,0
